@@ -23,14 +23,6 @@ py ./ancbot.py
 
 ##
 
-instalator
-
-```
-pip install py2exe
-```
-
-```
-py ./install.py
-```
+EXE vytvořen pomocí `auto-py-to-exe`
 
 > Instalace pořád nefunguje
